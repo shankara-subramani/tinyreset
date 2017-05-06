@@ -9,7 +9,7 @@
 `https://raw.githubusercontent.com/shankariyerr/tinyreset/master/tinyreset.min.css`
 
 #### unpkg: 
-`https://unpkg.com/tinyreset@1.0.0/tinyreset.min.css`
+`https://unpkg.com/tinyreset@1.0.1/tinyreset.min.css`
 
 
 TODO:

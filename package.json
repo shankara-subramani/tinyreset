@@ -1,0 +1,23 @@
+{
+  "name": "tinyreset",
+  "version": "1.0.1",
+  "description": "tiny CSS reset for the modern web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankariyerr/tinyreset.git"
+  },
+  "keywords": [
+    "css",
+    "reset"
+  ],
+  "author": "shankariyerr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shankariyerr/tinyreset/issues"
+  },
+  "homepage": "https://github.com/shankariyerr/tinyreset#readme"
+}

@@ -10,7 +10,3 @@
 
 #### unpkg: 
 `https://unpkg.com/tinyreset@1.0.1/tinyreset.min.css`
-
-
-TODO:
-1.  `.scss`  version

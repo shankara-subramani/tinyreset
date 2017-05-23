@@ -112,8 +112,8 @@ blockquote,
 q {
     quotes: none;
 
-    &:before,
-    &:after {
+    &::before,
+    &::after {
         content: '';
         content: none;
     }
